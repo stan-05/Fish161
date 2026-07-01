@@ -1,0 +1,2195 @@
+{
+  "participants": [
+    {
+      "id": 1,
+      "name": "Кощеев Евгений",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Лысенко Дмитрий",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Галков Максим",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Келюх Сергей",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Алейников Владимир",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Волков Александр",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Пуголовкин Сергей",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Куценко Василий",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Коваленко Евгений",
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Краснов Александр",
+      "active": true
+    },
+    {
+      "id": 11,
+      "name": "Земляков Фёдор",
+      "active": true
+    },
+    {
+      "id": 12,
+      "name": "Печерский Виктор",
+      "active": true
+    },
+    {
+      "id": 13,
+      "name": "Коротенко Александр",
+      "active": true
+    },
+    {
+      "id": 14,
+      "name": "Симонов Виктор",
+      "active": true
+    },
+    {
+      "id": 15,
+      "name": "Кожушко Сергей",
+      "active": true
+    },
+    {
+      "id": 16,
+      "name": "Могильный Сергей",
+      "active": true
+    },
+    {
+      "id": 17,
+      "name": "Водопшин Владимир",
+      "active": true
+    },
+    {
+      "id": 18,
+      "name": "Гилетин Виталий",
+      "active": true
+    },
+    {
+      "id": 19,
+      "name": "Черноглазов Дмитрий",
+      "active": true
+    },
+    {
+      "id": 20,
+      "name": "Володин Виктор",
+      "active": true
+    },
+    {
+      "id": 21,
+      "name": "Гаранжа Валерий",
+      "active": true
+    },
+    {
+      "id": 22,
+      "name": "Храпов Олег",
+      "active": true
+    },
+    {
+      "id": 23,
+      "name": "Лавринов Сергей",
+      "active": true
+    },
+    {
+      "id": 24,
+      "name": "Пальчиков",
+      "active": true
+    },
+    {
+      "id": 25,
+      "name": "Мунтян Артур",
+      "active": true
+    },
+    {
+      "id": 26,
+      "name": "Голотин Андрей",
+      "active": true
+    },
+    {
+      "id": 27,
+      "name": "Мокин Андрей",
+      "active": true
+    },
+    {
+      "id": 28,
+      "name": "Азарян Давид",
+      "active": true
+    },
+    {
+      "id": 29,
+      "name": "Деткин Александр",
+      "active": true
+    },
+    {
+      "id": 30,
+      "name": "Каредин Александр",
+      "active": true
+    },
+    {
+      "id": 31,
+      "name": "Сафонов Максим",
+      "active": true
+    },
+    {
+      "id": 32,
+      "name": "Кравченко Сергей",
+      "active": true
+    },
+    {
+      "id": 33,
+      "name": "Коробкин Борис",
+      "active": true
+    },
+    {
+      "id": 34,
+      "name": "Макаренко Александр",
+      "active": true
+    },
+    {
+      "id": 35,
+      "name": "Несмачный Сергей",
+      "active": true
+    },
+    {
+      "id": 36,
+      "name": "Черноглазов Александр",
+      "active": true
+    },
+    {
+      "id": 37,
+      "name": "Десятников Игорь",
+      "active": true
+    },
+    {
+      "id": 38,
+      "name": "Горностаев Сергей",
+      "active": true
+    },
+    {
+      "id": 39,
+      "name": "Ильнер Георгий",
+      "active": true
+    },
+    {
+      "id": 40,
+      "name": "Калашников Давид",
+      "active": true
+    },
+    {
+      "id": 41,
+      "name": "Калашников Сергей",
+      "active": true
+    },
+    {
+      "id": 42,
+      "name": "Дюдин Роман",
+      "active": true
+    },
+    {
+      "id": 43,
+      "name": "Селицкий Игорь",
+      "active": true
+    },
+    {
+      "id": 44,
+      "name": "Гельт Максим",
+      "active": true
+    },
+    {
+      "id": 45,
+      "name": "Захаров Николай",
+      "active": true
+    },
+    {
+      "id": 46,
+      "name": "Панин Владимир",
+      "active": true
+    },
+    {
+      "id": 47,
+      "name": "Безбородов Денис",
+      "active": true
+    },
+    {
+      "id": 48,
+      "name": "Борисенко Андрей",
+      "active": true
+    },
+    {
+      "id": 49,
+      "name": "Глебов Константин",
+      "active": true
+    },
+    {
+      "id": 50,
+      "name": "Гельт Андрей",
+      "active": true
+    },
+    {
+      "id": 51,
+      "name": "Рева Павел",
+      "active": true
+    },
+    {
+      "id": 52,
+      "name": "Моисеенко Александр",
+      "active": true
+    },
+    {
+      "id": 53,
+      "name": "Жуин Андрей",
+      "active": true
+    },
+    {
+      "id": 54,
+      "name": "Иванов Иван",
+      "active": true
+    },
+    {
+      "id": 55,
+      "name": "Иванов Вячеслав",
+      "active": true
+    },
+    {
+      "id": 56,
+      "name": "Ларин Евгений",
+      "active": true
+    },
+    {
+      "id": 57,
+      "name": "Черноглазов Владимир",
+      "active": true
+    },
+    {
+      "id": 58,
+      "name": "Алейников Андрей",
+      "active": true
+    },
+    {
+      "id": 59,
+      "name": "Заведеев Олег",
+      "active": true
+    },
+    {
+      "id": 60,
+      "name": "Лысенко Андрей",
+      "active": true
+    },
+    {
+      "id": 61,
+      "name": "Лысенко Ирина",
+      "active": true
+    },
+    {
+      "id": 62,
+      "name": "Пучков Алексей",
+      "active": true
+    },
+    {
+      "id": 63,
+      "name": "Смуглов Андрей",
+      "active": true
+    },
+    {
+      "id": 64,
+      "name": "Ильин Сергей",
+      "active": true
+    },
+    {
+      "id": 65,
+      "name": "Ильина Наталья",
+      "active": true
+    },
+    {
+      "id": 66,
+      "name": "Трофименко Михаил",
+      "active": true
+    },
+    {
+      "id": 67,
+      "name": "Комов Алексей",
+      "active": true
+    },
+    {
+      "id": 68,
+      "name": "Деткин Игорь",
+      "active": true
+    },
+    {
+      "id": 69,
+      "name": "Соболев Анатолий",
+      "active": true
+    },
+    {
+      "id": 70,
+      "name": "Акшов Дмитрий",
+      "active": true
+    },
+    {
+      "id": 71,
+      "name": "Просцов Андрей",
+      "active": true
+    },
+    {
+      "id": 72,
+      "name": "С Рыбалкой по жизни",
+      "active": true
+    },
+    {
+      "id": 73,
+      "name": "По жизни с рыбалкой",
+      "active": true
+    },
+    {
+      "id": 74,
+      "name": "Донские Рыбаки",
+      "active": true
+    },
+    {
+      "id": 75,
+      "name": "Каменск",
+      "active": true
+    },
+    {
+      "id": 76,
+      "name": "День Х",
+      "active": true
+    },
+    {
+      "id": 77,
+      "name": "Brat CaRp",
+      "active": true
+    },
+    {
+      "id": 78,
+      "name": "Аква-Гвардия",
+      "active": true
+    },
+    {
+      "id": 79,
+      "name": "CARP-PRO",
+      "active": true
+    },
+    {
+      "id": 80,
+      "name": "CARP-FISHING",
+      "active": true
+    }
+  ],
+  "competitions": [
+    {
+      "id": 1,
+      "name": "Мормышка",
+      "season": 2026,
+      "type_id": 4,
+      "location": "Соколовское Водохранилище",
+      "date": "2026-01-24",
+      "tours_count": 1,
+      "participant_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "judge_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "regulation": "мормышка",
+      "has_big_fish_prize": true
+    },
+    {
+      "id": 2,
+      "name": "Хищник зима",
+      "season": 2026,
+      "type_id": 5,
+      "location": "Соколовское водохранилище",
+      "date": "2026-02-07",
+      "tours_count": 1,
+      "has_big_fish_prize": false,
+      "participant_ids": [
+        28,
+        21,
+        18,
+        26,
+        29,
+        30,
+        4,
+        33,
+        1,
+        32,
+        2,
+        34,
+        27,
+        31
+      ],
+      "judge_ids": [
+        1,
+        6
+      ],
+      "regulation": "хищник зима"
+    },
+    {
+      "id": 3,
+      "name": "Мормышка",
+      "season": 2026,
+      "type_id": 4,
+      "location": "Соколовское водохранилище",
+      "date": "2026-02-21",
+      "tours_count": 1,
+      "has_big_fish_prize": false,
+      "participant_ids": [
+        5,
+        3,
+        18,
+        38,
+        37,
+        30,
+        4,
+        15,
+        1,
+        10,
+        8,
+        2,
+        35,
+        36,
+        19
+      ],
+      "judge_ids": [
+        1,
+        3,
+        7
+      ],
+      "regulation": "мормышка"
+    },
+    {
+      "id": 4,
+      "name": "ФИДЕР 2026г",
+      "season": 2026,
+      "type_id": 1,
+      "location": "х Каныгин база Россети",
+      "date": "2026-04-18",
+      "tours_count": 2,
+      "has_big_fish_prize": true,
+      "participant_ids": [
+        47,
+        48,
+        17,
+        6,
+        3,
+        50,
+        44,
+        18,
+        49,
+        38,
+        42,
+        53,
+        45,
+        11,
+        39,
+        40,
+        41,
+        4,
+        13,
+        1,
+        10,
+        16,
+        52,
+        46,
+        12,
+        7,
+        51,
+        43,
+        14,
+        19
+      ],
+      "judge_ids": [],
+      "regulation": "фидер"
+    },
+    {
+      "id": 5,
+      "name": "Фидер",
+      "season": 2026,
+      "type_id": 1,
+      "location": "х.Калинин т/б Новочеркасская",
+      "date": "2026-05-30",
+      "tours_count": 2,
+      "has_big_fish_prize": true,
+      "participant_ids": [
+        17,
+        6,
+        3,
+        38,
+        53,
+        45,
+        11,
+        55,
+        54,
+        40,
+        41,
+        4,
+        13,
+        56,
+        16,
+        52,
+        12,
+        43,
+        14,
+        57,
+        19
+      ],
+      "judge_ids": [
+        1,
+        6,
+        7,
+        8
+      ],
+      "regulation": "фидер"
+    },
+    {
+      "id": 6,
+      "name": "Карп июнь 2026",
+      "season": 2026,
+      "type_id": 3,
+      "location": "Харьковка Каменский район",
+      "date": "12.06-14.06.2026",
+      "tours_count": 1,
+      "has_big_fish_prize": true,
+      "participant_ids": [
+        72,
+        73,
+        75,
+        74,
+        76,
+        78,
+        79,
+        80,
+        77
+      ],
+      "judge_ids": [
+        1,
+        2
+      ],
+      "regulation": "карп"
+    }
+  ],
+  "results": [
+    {
+      "participant_id": 19,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 10,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 9,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 8,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 3,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 1.165,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 6,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 1.11,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 12,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 1.6,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 15,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.43,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 5,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 2.64,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 1,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 2,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 18,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 22,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 7,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 1.76,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 11,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 1.64,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 16,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 14,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.34,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 13,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.78,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 20,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 4,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 23,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 17,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.95,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 21,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 24,
+      "competition_id": 1,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 28,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 21,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.665,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 18,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.505,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 26,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 29,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 30,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.505,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 4,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 33,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 1,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.48,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 2,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 34,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 27,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 31,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 32,
+      "competition_id": 2,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 3,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 2.78,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 38,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 2.4,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 10,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 2.615,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 1,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.105,
+      "max_weight": 0.0,
+      "place": 14
+    },
+    {
+      "participant_id": 36,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 1.75,
+      "max_weight": 0.0,
+      "place": 6
+    },
+    {
+      "participant_id": 35,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.415,
+      "max_weight": 0.0,
+      "place": 13
+    },
+    {
+      "participant_id": 19,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 1.5,
+      "max_weight": 0.0,
+      "place": 7
+    },
+    {
+      "participant_id": 8,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.775,
+      "max_weight": 0.0,
+      "place": 11
+    },
+    {
+      "participant_id": 30,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 1.845,
+      "max_weight": 0.0,
+      "place": 5
+    },
+    {
+      "participant_id": 37,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.865,
+      "max_weight": 0.0,
+      "place": 10
+    },
+    {
+      "participant_id": 2,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.55,
+      "max_weight": 0.0,
+      "place": 12
+    },
+    {
+      "participant_id": 18,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.07,
+      "max_weight": 0.0,
+      "place": 15
+    },
+    {
+      "participant_id": 4,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.925,
+      "max_weight": 0.0,
+      "place": 9
+    },
+    {
+      "participant_id": 5,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 3.735,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 15,
+      "competition_id": 3,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 2.235,
+      "max_weight": 0.0
+    },
+    {
+      "participant_id": 43,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "11",
+      "total_weight": 0.785,
+      "max_weight": 0.51,
+      "place": 3
+    },
+    {
+      "participant_id": 47,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "32",
+      "total_weight": 0.62,
+      "max_weight": 0.0,
+      "place": 7
+    },
+    {
+      "participant_id": 48,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "28",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 17,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "20",
+      "total_weight": 0.595,
+      "max_weight": 0.0,
+      "place": 9
+    },
+    {
+      "participant_id": 6,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "22",
+      "total_weight": 0.28,
+      "max_weight": 0.0,
+      "place": 18
+    },
+    {
+      "participant_id": 3,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "30",
+      "total_weight": 0.49,
+      "max_weight": 0.0,
+      "place": 11
+    },
+    {
+      "participant_id": 50,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "12",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 44,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "24",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 18,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "16",
+      "total_weight": 0.27,
+      "max_weight": 0.0,
+      "place": 19
+    },
+    {
+      "participant_id": 49,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "15",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 38,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 0.605,
+      "max_weight": 0.0,
+      "place": 8
+    },
+    {
+      "participant_id": 42,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "21",
+      "total_weight": 0.635,
+      "max_weight": 0.0,
+      "place": 5
+    },
+    {
+      "participant_id": 53,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "18",
+      "total_weight": 0.405,
+      "max_weight": 0.0,
+      "place": 14
+    },
+    {
+      "participant_id": 45,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "8",
+      "total_weight": 0.63,
+      "max_weight": 0.0,
+      "place": 6
+    },
+    {
+      "participant_id": 11,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "25",
+      "total_weight": 0.455,
+      "max_weight": 0.0,
+      "place": 12
+    },
+    {
+      "participant_id": 39,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "3",
+      "total_weight": 0.355,
+      "max_weight": 0.0,
+      "place": 15
+    },
+    {
+      "participant_id": 40,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "26",
+      "total_weight": 0.255,
+      "max_weight": 0.0,
+      "place": 20
+    },
+    {
+      "participant_id": 41,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "14",
+      "total_weight": 0.79,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 4,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "31",
+      "total_weight": 0.325,
+      "max_weight": 0.0,
+      "place": 17
+    },
+    {
+      "participant_id": 13,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "7",
+      "total_weight": 0.415,
+      "max_weight": 0.0,
+      "place": 13
+    },
+    {
+      "participant_id": 1,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "2",
+      "total_weight": 0.355,
+      "max_weight": 0.0,
+      "place": 15
+    },
+    {
+      "participant_id": 10,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "13",
+      "total_weight": 0.27,
+      "max_weight": 0.0,
+      "place": 19
+    },
+    {
+      "participant_id": 16,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "5",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 52,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "27",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 12,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "19",
+      "total_weight": 1.77,
+      "max_weight": 0.0,
+      "place": 1
+    },
+    {
+      "participant_id": 7,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "23",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 51,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "29",
+      "total_weight": 0.71,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 14,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "10",
+      "total_weight": 0.33,
+      "max_weight": 0.0,
+      "place": 16
+    },
+    {
+      "participant_id": 19,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "6",
+      "total_weight": 0.55,
+      "max_weight": 0.0,
+      "place": 10
+    },
+    {
+      "participant_id": 47,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "5",
+      "total_weight": 0.705,
+      "max_weight": 0.0,
+      "place": 13
+    },
+    {
+      "participant_id": 48,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "26",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 23
+    },
+    {
+      "participant_id": 17,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "29",
+      "total_weight": 0.82,
+      "max_weight": 0.0,
+      "place": 9
+    },
+    {
+      "participant_id": 6,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "16",
+      "total_weight": 0.83,
+      "max_weight": 0.0,
+      "place": 8
+    },
+    {
+      "participant_id": 3,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "8",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 23
+    },
+    {
+      "participant_id": 50,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "6",
+      "total_weight": 0.415,
+      "max_weight": 0.0,
+      "place": 20
+    },
+    {
+      "participant_id": 44,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "27",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 23
+    },
+    {
+      "participant_id": 18,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "17",
+      "total_weight": 0.42,
+      "max_weight": 0.0,
+      "place": 19
+    },
+    {
+      "participant_id": 49,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "30",
+      "total_weight": 0.41,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 38,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "20",
+      "total_weight": 0.46,
+      "max_weight": 0.0,
+      "place": 18
+    },
+    {
+      "participant_id": 42,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "28",
+      "total_weight": 1.175,
+      "max_weight": 0.0,
+      "place": 5
+    },
+    {
+      "participant_id": 53,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "25",
+      "total_weight": 2.79,
+      "max_weight": 1.065,
+      "place": 1
+    },
+    {
+      "participant_id": 45,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "7",
+      "total_weight": 0.755,
+      "max_weight": 0.0,
+      "place": 12
+    },
+    {
+      "participant_id": 11,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "11",
+      "total_weight": 1.19,
+      "max_weight": 0.0,
+      "place": 4
+    },
+    {
+      "participant_id": 39,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "24",
+      "total_weight": 0.49,
+      "max_weight": 0.0,
+      "place": 17
+    },
+    {
+      "participant_id": 40,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "10",
+      "total_weight": 0.52,
+      "max_weight": 0.0,
+      "place": 16
+    },
+    {
+      "participant_id": 41,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "32",
+      "total_weight": 0.96,
+      "max_weight": 0.0,
+      "place": 7
+    },
+    {
+      "participant_id": 4,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "12",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 23
+    },
+    {
+      "participant_id": 13,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "22",
+      "total_weight": 0.39,
+      "max_weight": 0.0,
+      "place": 22
+    },
+    {
+      "participant_id": 1,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "31",
+      "total_weight": 0.41,
+      "max_weight": 0.0,
+      "place": 21
+    },
+    {
+      "participant_id": 10,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "21",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 23
+    },
+    {
+      "participant_id": 16,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "14",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 23
+    },
+    {
+      "participant_id": 52,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "1",
+      "total_weight": 1.225,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 46,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "9",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 23
+    },
+    {
+      "participant_id": 12,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "2",
+      "total_weight": 2.0,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 7,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "13",
+      "total_weight": 0.62,
+      "max_weight": 0.0,
+      "place": 15
+    },
+    {
+      "participant_id": 51,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "18",
+      "total_weight": 0.76,
+      "max_weight": 0.0,
+      "place": 11
+    },
+    {
+      "participant_id": 43,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "23",
+      "total_weight": 0.765,
+      "max_weight": 0.0,
+      "place": 10
+    },
+    {
+      "participant_id": 14,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "4",
+      "total_weight": 0.635,
+      "max_weight": 0.0,
+      "place": 14
+    },
+    {
+      "participant_id": 19,
+      "competition_id": 4,
+      "tour": 2,
+      "sector": "3",
+      "total_weight": 1.0,
+      "max_weight": 0.0,
+      "place": 6
+    },
+    {
+      "participant_id": 46,
+      "competition_id": 4,
+      "tour": 1,
+      "sector": "4",
+      "total_weight": 0.215,
+      "max_weight": 0.0
+    },
+    {
+      "participant_id": 41,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "2",
+      "total_weight": 2.07,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 6,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "3",
+      "total_weight": 1.035,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 54,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "4",
+      "total_weight": 1.445,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 3,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "19",
+      "total_weight": 3.13,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 11,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "5",
+      "total_weight": 1.36,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 56,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "8",
+      "total_weight": 1.72,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 13,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "16",
+      "total_weight": 1.185,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 14,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "9",
+      "total_weight": 0.63,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 12,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "18",
+      "total_weight": 3.06,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 45,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "10",
+      "total_weight": 2.135,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 19,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "15",
+      "total_weight": 1.98,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 57,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "7",
+      "total_weight": 0.8,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 43,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "6",
+      "total_weight": 3.175,
+      "max_weight": 1.3,
+      "place": 2
+    },
+    {
+      "participant_id": 17,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "20",
+      "total_weight": 2.885,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 16,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "12",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 55,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "11",
+      "total_weight": 0.535,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 4,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "17",
+      "total_weight": 0.7,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 53,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "21",
+      "total_weight": 5.445,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 52,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "14",
+      "total_weight": 1.535,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 38,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 3.52,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 41,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "1",
+      "total_weight": 2.38,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 43,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "2",
+      "total_weight": 1.95,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 55,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "3",
+      "total_weight": 0.5,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 19,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "4",
+      "total_weight": 1.735,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 11,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "5",
+      "total_weight": 0.825,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 12,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "6",
+      "total_weight": 4.685,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 45,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "7",
+      "total_weight": 1.7,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 13,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "8",
+      "total_weight": 1.885,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 4,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "9",
+      "total_weight": 0.7,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 53,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "10",
+      "total_weight": 3.06,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 56,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "11",
+      "total_weight": 1.335,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 54,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "12",
+      "total_weight": 3.81,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 6,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "14",
+      "total_weight": 2.38,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 14,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "13",
+      "total_weight": 2.22,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 38,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "16",
+      "total_weight": 3.445,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 57,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "17",
+      "total_weight": 1.7,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 16,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "18",
+      "total_weight": 0.1,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 17,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "19",
+      "total_weight": 0.855,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 3,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "20",
+      "total_weight": 3.8,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 52,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "21",
+      "total_weight": 3.545,
+      "max_weight": 0.0,
+      "place": 3
+    },
+    {
+      "participant_id": 40,
+      "competition_id": 5,
+      "tour": 2,
+      "sector": "15",
+      "total_weight": 2.145,
+      "max_weight": 1.35
+    },
+    {
+      "participant_id": 40,
+      "competition_id": 5,
+      "tour": 1,
+      "sector": "13",
+      "total_weight": 0.8,
+      "max_weight": 0.0
+    },
+    {
+      "participant_id": 73,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "1",
+      "total_weight": 14.5,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 76,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "2",
+      "total_weight": 5.7,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 75,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "3",
+      "total_weight": 13.3,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 80,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "5",
+      "total_weight": 13.8,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 79,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "6",
+      "total_weight": 0.0,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 78,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "4",
+      "total_weight": 16.3,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 77,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "7",
+      "total_weight": 30.2,
+      "max_weight": 9.0,
+      "place": 1
+    },
+    {
+      "participant_id": 72,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "8",
+      "total_weight": 15.2,
+      "max_weight": 0.0,
+      "place": 2
+    },
+    {
+      "participant_id": 74,
+      "competition_id": 6,
+      "tour": 1,
+      "sector": "9",
+      "total_weight": 12.2,
+      "max_weight": 0.0,
+      "place": 2
+    }
+  ],
+  "judges": [
+    {
+      "id": 1,
+      "name": "Алейников А.В"
+    },
+    {
+      "id": 2,
+      "name": "Харламов Д.А."
+    },
+    {
+      "id": 3,
+      "name": "Ларин Е.А."
+    },
+    {
+      "id": 4,
+      "name": "Грибцова Н.В."
+    },
+    {
+      "id": 5,
+      "name": "Заведеев О.М."
+    },
+    {
+      "id": 6,
+      "name": "Мокина С.А."
+    },
+    {
+      "id": 7,
+      "name": "Мокин А.С."
+    },
+    {
+      "id": 8,
+      "name": "Куценко В.В."
+    },
+    {
+      "id": 9,
+      "name": "Еронин А.Э."
+    },
+    {
+      "id": 10,
+      "name": "Алейникова Н.В."
+    }
+  ],
+  "competition_types": [
+    {
+      "id": 1,
+      "name": "Фидер"
+    },
+    {
+      "id": 2,
+      "name": "Поплавок"
+    },
+    {
+      "id": 3,
+      "name": "Карповая ловля"
+    },
+    {
+      "id": 4,
+      "name": "Мормышка"
+    },
+    {
+      "id": 5,
+      "name": "подледный хищник"
+    }
+  ],
+  "regulations": {
+    "мормышка": "Ребят всем внимание‼️‼️‼️ Лёд стал, значит время проводить  соревнования по подледной ловле‼️ Место проведения Соколовское водохранилище (гуковский пляж) г.Новошахтинск‼️Цель пропаганда зимней рыбалки‼️Регламент две удочки оснащённые одним крючком или мармышкой! Сигнализатор поклёвки: поплавок либо кивок, наживка любая! Сектор будет один ширина водохранилища, длинной 200 метров!Место лова выбирает сам участник в границах сектора! Поменять место лова можно будет в любой момент и без ограничений! К вылову допускается только мирная рыба, судак, щука, окунь и т.п. мимо зачета! Победитель будет выявлен по наибольшему весу всей пойманной рыбы, если вес будет одинаковый, места будут распределяться путем взвешивания самой крупной рыбы! Дата проведения 24 января 2026 года! Время проведения в 7-30 прибытие на место в 8-00 старт, финиш в 13-00! С 13-00 до 13-30 взвешивание и подведение итогов!  С 13-30 до 14-00 награждение! НУ И КОНЕЧНО В 14-00 ЗНАМЕНИТЫЙ ШУЛЮМ ПО СОТОЧКУ ОТ ШЭФ ПОВАРА МОКИНА АНДРЕЯ‼️‼️‼️‼️ И КАК ВСЕГДА ХОРОШЕЕ НАСТРОЕНИЙ, ПРИЯТНОЕ ОБЩЕНИЕ С ДРУЗЬЯМИ РЫБАКАМИ, БАЙКИ ПОД ШУЛЮМ, ПРИРОДА, НУ А ЕСЛИ В КРАТЦЕ КТО ПРИЕДЕТ НЕ ПОЖАЛЕЕТ ГАРАНТИРОВАННО‼️‼️‼️‼️ Запрещается использование, дипперов, видеокамер и т.д, кто поймается будет моментально дисквалифицирован! Взнос 1000 рублей! Возвращается до 22.01.26 включительно!РАССТОЯНИЕ МЕЖДУ УЧАСТНИКАМИ НЕ МЕНЕЕ 10 МЕТРОВ! ЕСЛИ ХОТИТЕ СОХРАНИТЬ СВОИ ЛУНКИ, ОБЯЗАТЕЛЬНО ИХ ОБОЗНАЧИТЬ ФЛАЖКОМ, В ИННОМ СЛУЧАЕ ЛУНКА СЧИТАЕТСЯ НИЧЬЯ! ЕЩЕ ОДИН МОМЕНТ ЛОВЛЯ БЕЗ НАЖИВКИ ЗАПРЕЩЕНА!!! КТО БУДЕТ ПОЙМАН ЗА ОБМАНОМ ДИСКВАЛИФИКАЦИЯ!",
+    "хищник зима": "Ребят всем внимание‼️‼️‼️ Очередные соревнования по ловле хищника со льда‼️ Место проведения согласовывается, в ближайшие дни определюсь‼️сроки проведения 7.02.2026! Время проведения:\nС 7-00 до 7-40 прибытие участников на место\n7-55 команда приготовиться\n8-00 старт\n14-00 финиш\nС 14-00 до 14-30 взвешивание\n15-00 награждение\n Цель популяризация и развитие рыболовного спорта, повышение уровня массовости рыболовного спорта, повышение уровня мастерства участников, а также обмен опытом, между участниками и выявление сильнейших участников группы по ловле хищника со льда‼️Разрешённые оснастки: блесна, балансир либо 5 жерлиц! Жерлицы оснащены одним крючком(одинарный, двойным, тройном)! Сигнализатор поклёвки: флажок!Сектор будет один!Место лова выбирает сам участник в границах сектора либо всего водоёма, позже будет сообщено! Расстояние между участниками не менее 10 метров! Приоритет имеет тот участник, который первым пробурил лунки! Поменять место лова можно будет в любой момент и без ограничений! К вылову допускается только хищная рыба, судак, щука, окунь и т.п. мирная мимо зачета! Победитель будет выявлен по наибольшему общему весу всей пойманной рыбы, если вес будет одинаковый, места будут распределяться путем взвешивания самой крупной рыбы! Запрещается использование, дипперов, видеокамер и т.д, кто поймается будет моментально дисквалифицирован! Взнос 1000 рублей! Возвращается до 05.02.26 включительно!",
+    "фидер": "П О Л О Ж Е Н И Е\nО проведении чемпионата клуба «С рыбалкой по жизни» \n«ФИДЕР-2026» по ловле рыбы донной удочкой с берега \n        \nЦели и задачи\n- Популяризация рыбной ловли как вида активного досуга\n- Пропаганда бережного отношения к природным ресурсам\n- Обмен опытом и повышение рыболовного мастерства участников.\n- Выявление сильнейших фидеристов.\n\nУчастники чемпионата.\nК участию в чемпионате допускаются все кто состоит в клубе «С рыбалкой по жизни», чей возраст составляет полных 10 лет (участник, не достигший 18 лет, принимает участие с законным представителем), посторонние лица смогут принять участия после согласования с администрацией клуба. \nУчастники несут личную ответственность за соблюдение техники безопасности во время проведения чемпионата.\nУчастники в неадекватном состоянии к участию в соревнованиях допускаться не будут, без компенсации организационного взноса.\nУчастники самостоятельно добираются к месту проведения мероприятия, так же самостоятельно оплачивают проживание и стоянку автомобиля\nОрганизационный взнос за участие – 1700 рублей. \nРегистрация участников с 20.04.2026 по 29.05.2026.\n\nВремя и место проведения чемпионата.\nЧемпионат проводится 30 мая на реке Дон, Ростовской области, Багаевского района, хутор Калинин, база отдыха «Новочеркасская»\nУсловия проведения чемпионата.\nЧемпионат проводится в два тура продолжительностью по 4 часа.\nЛовля рыбы осуществляется с берега одним удилищем, оснащенным кормушкой для фидерной ловли, с одним крючком, длинна поводка не менее 25 см \nМероприятие проводится на доверии к участникам, с небольшой судейской коллегией поэтому за нарушения, указанные ниже, участник будет снят с участия без предупреждения.\nПо команде \"Старт\" участники приступают к ловле рыбы. \nВ процессе ловли в секторе находится только участник, посторонним лицам кроме судейской коллегии находится запрещено, при нарушении возможна дисквалификация.\nВыход из сектора без уважительной причины запрещен, за исключением обстоятельств непреодолимой силы, или с разрешения судей. \nКаждый участник обязан сохранять выловленную рыбу до взвешивания в живом виде.\nВ зачет идет вся пойманная или случайно забагренная рыба, за исключением той которая запрещена к вылову и занесенная в красную книгу (все виды осетровых, шемая, судак)\nОсобые требования по ловле уклейки: запрещено производить ловлю с берега в отвес, обязательно должна присутствовать фаза заброса и подтягивание оснастки.\nРыба взвешивается в присутствии участника.\nВзвешивание улова проводится по окончании каждого тура.\nПобедителем соревнования признается участник, набравший наименьшее количество баллов (мест) по итогам двух туров.\n Взвешивание улова осуществляется при помощи электронных весов. \nРезультаты чемпионата подсчитываются судейской коллегией (4 человека) и заносятся в протокол. \nСнасти: оснащенные фидерные удилища (запасные) количество не ограничивается.\nОснастка только фидерная, инлайн, симметричная, не симметричная петли, петля Орлова,\nРазрешённая насадка: живая – червь, опарыш, мотыль и т.п.; зерновые- перловка, пшеница, кукуруза и т.п. \nПрикормка, ароматизаторы- допускается использование любых видов.\nСадок от 2 метров \nРазрешается иметь при себе неограниченное количество запасных снастей и принадлежностей.\nЗапрещается использовать:\n- Все искусственные приманки, приманки произведенные из зерновых (бойлы), кальмар, креветка.\n- Звуковые сигнализаторы поклевок, колокольчики и бубенчики\n-   Пробки, пружины, флет, макушатники\n-Если участник в первой жеребьёвки вытащил первый или последний сектор, во втором туре он уже не может вытащить данные сектора! всвязи с этим участники вытащившие данные сектора во второй жеребьёвки тянут на сектор первыми, далее по списку от второго до предпоследнего!!\n\nОрганизаторами чемпионата являются: \nПрезидент клуба «С рыбалкой по жизни» Алейников Андрей Владимирович\nАдминистративный состав:\nСекретарь \nСудья \nСудья \n\nФинансирование.\nЧастичное финансирование затрат на проведения чемпионата осуществляется магазином «С рыбалкой по жизни» (представитель Алейников Андрей Владимирович)\n\nНоминации.\n1-Место \n2-Место \n3-Место\nБиг фиш\nПрограмма чемпионата\nСбор участников на месте старта (регистрация) 30.05.2026 с 5:00 до 6:00 \nЖеребьевка первого тура и второго тура с 6:00 до 6:10\nРасход по секторам, подготовка снастей (разрешен закорм) 6:10 до 7:30\nСтарт первого тура 7:30\nЗавершение первого тура 11:30\nВзвешивание улова с 11.30 до 12:00\nПерерыв с 12:00 до 13:30\nСтарт второго тура 13:30\nЗавершение второго тура (финальный свисток) 17:30\nВзвешивание улова с 17:30 до 18:00\nПодведения итогов чемпионата с 18:00 до 18:30\nНаграждение с 18:30 до 19:00\n\nАдминистрация клуба\nАлейников А. В.              \nАлейникова Н. В.                        \nГрибцова Н. В.                 \nЕронин А. Э.                    \nЗаведеев О. М.                                   \nЛарин Е. А.                      \nМокин А. С.   \nМокина С.А.                  \nХарламов Д. А.  \nКуценко В.В.",
+    "карп": "П О Л О Ж Е Н И Е\nО проведении чемпионата клуба «С рыбалкой по жизни»\n«Карп лето-2026» по ловле рыбы донной удочкой с берега\nЦели и задачи\n- Популяризация современной карповой ловли. - Популяризация рыбной ловли, как вида активного досуга. - Пропаганда бережного отношения к природным ресурсам. - Обмен опытом и повышение рыболовного мастерства участников. - Выявление сильнейших мастеров карповой ловли. Участники чемпионата. К участию в чемпионате допускаются все кто состоит в клубе «С рыбалкой по жизни», чейвозрастсоставляет полных 10 лет (участник, не достигший 18 лет, принимает участие сзаконнымпредставителем), посторонние лица смогут принять участия после согласования с администрациейклуба. Участники несут личную ответственность за соблюдение техники безопасностивовремяпроведения чемпионата. Участники в неадекватном состоянии к участию в соревнованиях допускаться не будут, безкомпенсации организационного взноса. Участники самостоятельно добираются к месту проведения мероприятия\nОрганизационный взнос за участие с команды – 8000 рублей. Регистрация участников с 12.06.2026 по 14.06.2026 г. Время и место проведения чемВзвешивание улова проводится по окончании турнира, так же в любое время позапросуучастников. Взвешивание улова осуществляется при помощи электронных весов. Победителем соревнования признается команда, имеющая наибольший вес улова. Результаты чемпионата подсчитываются судейской коллегией (3 человека) изаносятсявпротокол. Снасти:\nОснащенные карповые удилища (запасные) количество не ограничивается. Оснастка только карповая, (In-Line, вертолет, зиг-риг, безопасная клипса, чод-риг, скользящиймонтаж)\nДопускается при себе иметь неограниченное количество запасных снастей и принадлежностей. Садок от 2 метров. Карповые мешки в которых должно находится не боле 2 рыб, крупная одна. Разрешено для использования:\nНасадка: зерновые (перловка, пшеница, кукуруза, горох), бойлы, поп-апы, вафтерсыПрикормка: ароматизаторы- допускается использование любых видов, так же стикииПВАпакеты\nСигнализаторы поклевки: звуковые, колокольчики, бубенчики\nпионата. Чемпионат проводится 12-14 июня по адресу, Ростовская область, Условия проведения командного чемпионата. Чемпионат проводится в 1 тур продолжительностью 47 часов. Состав команды 2 человека. Ловля рыбы осуществляется с берега четырьмя удилищами, оснащенными карповойоснасткой(In-Line, вертолет, зиг-риг, безопасная клипса, чод-риг, скользящий монтаж)\nЗакорм с 6:00 до 20:00 осуществляется с берега при помощи спомба (ракета), рогатки, кобры,прикормочного ковша, катапульты итд. С 20:00 до 6:00 закорм возможен толькоприпомощикобры или рогатки, все остальные приспособления запрещены. Мероприятие проводится на доверии к участникам, с небольшой судейской коллегиейпоэтомузанарушения, указанные ниже, участник будет снят с участия без предупреждения. По команде \"Старт\" участники приступают к ловле рыбы. В процессе ловли в секторе находится только участник, посторонним лицамкромесудейскойколлегии находится запрещено, при нарушении возможна дисквалификация. Выход из сектора без уважительной причины запрещен, за исключениемобстоятельствнепреодолимой силы, или с разрешения судей. Каждый участник обязан сохранять выловленную рыбу до взвешивания в живомвиде. После взвешивания вся рыба отпускается. В зачет идет вся пойманная или случайно забагренная рыба весом от одного килограмма. Рыба взвешивается в присутствии участника.\nВзвешивание улова проводится по окончании турнира, так же в любое время позапросуучастников. Взвешивание улова осуществляется при помощи электронных весов. Победителем соревнования признается команда, имеющая наибольший вес улова. Результаты чемпионата подсчитываются судейской коллегией (3 человека) изаносятсявпротокол. Снасти:\nОснащенные карповые удилища (запасные) количество не ограничивается. Оснастка только карповая, (In-Line, вертолет, зиг-риг, безопасная клипса, чод-риг, скользящиймонтаж)\nДопускается при себе иметь неограниченное количество запасных снастей и принадлежностей. Садок от 2 метров. Карповые мешки в которых должно находится не боле 2 рыб, крупная одна. Разрешено для использования:\nНасадка: зерновые (перловка, пшеница, кукуруза, горох), бойлы, поп-апы, вафтерсыПрикормка: ароматизаторы- допускается использование любых видов, так же стикииПВАпакеты\nСигнализаторы поклевки: звуковые, колокольчики, бубенчики\nЗапрещается использовать:\nНасадка: живая – червь, опарыш, мотыль, кальмар, креветка. Прикормка: применение каких-либо веществ, одурманивающих рыбу\nОснастка: пробки, пружины, флет, макушатники, закормочные кораблики,\nИспользование эхолотов\nОрганизаторами чемпионата являются:\nПрезидент клуба «С рыбалкой по жизни» Алейников Андрей Владимирович\nАдминистративный состав:\nСекретарь\nСудья\nСудья\nФинансирование. Частичное финансирование затрат на проведения чемпионата осуществляется магазином«Срыбалкой по жизни» (представитель Алейников Андрей Владимирович)\nНоминации. 1-Место\n2-Место\n3-Место\nБиг фиш\nПрограмма чемпионата\nСбор участников на месте старта (регистрация) 12.06.2026 с 9:00 до 10:00\nЖеребьевка с 10:00 до 10:30\nРасход по секторам, подготовка снастей (разрешен закорм, маркерение) 10:30\nСтарт 12:00\nВзвешивание улова с 12:00 до 13:00, так же в любое время по запросу\nЗавершение соревнований (финальный свисток) 14.06.2026г. в 11:00\nПодведения итогов чемпионата с 11:00 до 12:00\nНаграждение с 12:00 до 12:30",
+    "Ночной фидер": "П О Л О Ж Е Н И Е\nО проведении чемпионата клуба «С рыбалкой по жизни»\n«ФИДЕР-2026» по ловле рыбы донной удочкой с берега\nЦели и задачи\n- Популяризация рыбной ловли как вида активного досуга\n- Пропаганда бережного отношения к природным ресурсам\n- Обмен опытом и повышение рыболовного мастерства участников.\n- Выявление сильнейших фидеристов.\nУчастники чемпионата.\nК участию в чемпионате допускаются все кто состоит в клубе «С рыбалкой по\nжизни», чей возраст составляет полных 10 лет (участник, не достигший 18 лет,\nпринимает участие с законным представителем), посторонние лица смогут\nпринять участия после согласования с администрацией клуба.\nУчастники несут личную ответственность за соблюдение техники безопасности\nво время проведения чемпионата.\nУчастники в неадекватном состоянии к участию в соревнованиях допускаться не\nбудут, без компенсации организационного взноса.\nУчастники самостоятельно добираются к месту проведения мероприятия, так же\nсамостоятельно оплачивают проживание и стоянку автомобиля\nОрганизационный взнос за участие – 1700 рублей.\nРегистрация участников с 20.04.2026 по 22.05.2026.\nВремя и место проведения чемпионата.\nЧемпионат проводится 23 мая на реке Дон, Ростовской области, Багаевского\nрайона, хутор Калинин, база отдыха «Новочеркасская»\nУсловия проведения чемпионата.\nЧемпионат проводится в два тура продолжительностью по 4 часа.\nЛовля рыбы осуществляется с берега одним удилищем, оснащенным кормушкой\nдля фидерной ловли, с одним крючком, длинна поводка не менее 25 см\nМероприятие проводится на доверии к участникам, с небольшой судейской\nколлегией поэтому за нарушения, указанные ниже, участник будет снят с\nучастия без предупреждения.\nПо команде \"Старт\" участники приступают к ловле рыбы.\nВ процессе ловли в секторе находится только участник, посторонним лицам\nкроме судейской коллегии находится запрещено, при нарушении возможна\nдисквалификация.\nВыход из сектора без уважительной причины запрещен, за исключением\nобстоятельств непреодолимой силы, или с разрешения судей.\nКаждый участник обязан сохранять выловленную рыбу до взвешивания в живом\nвиде.\nВ зачет идет вся пойманная или случайно забагренная рыба, за исключением той\nкоторая запрещена к вылову и занесенная в красную книгу (все виды осетровых,\nшемая, судак)\nОсобые требования по ловле уклейки: запрещено производить ловлю с берега в\nотвес, обязательно должна присутствовать фаза заброса и подтягивание\nоснастки.\nРыба взвешивается в присутствии участника.\nВзвешивание улова проводится по окончании каждого тура.\nПобедителем соревнования признается участник, набравший наименьшее\nколичество баллов (мест) по итогам двух туров.\nВзвешивание улова осуществляется при помощи электронных весов.\nРезультаты чемпионата подсчитываются судейской коллегией (4 человека) и\nзаносятся в протокол.\nСнасти: оснащенные фидерные удилища (запасные) количество не\nограничивается.\nОснастка только фидерная, инлайн, симметричная, не симметричная петли,\nпетля Орлова,\nРазрешённая насадка: живая – червь, опарыш, мотыль и т.п.; зерновыеперловка, пшеница, кукуруза и т.п.\nПрикормка, ароматизаторы- допускается использование любых видов.\nСадок от 2 метров\nРазрешается иметь при себе неограниченное количество запасных снастей и\nпринадлежностей.\nЗапрещается использовать:\n- Все искусственные приманки, приманки произведенные из зерновых (бойлы),\nкальмар, креветка.\n- Звуковые сигнализаторы поклевок, колокольчики и бубенчики\n- Пробки, пружины, флет, макушатники\n-Если участник в первой жеребьёвки вытащил первый или последний сектор, во\nвтором туре он уже не может вытащить данные сектора! всвязи с этим\nучастники вытащившие данные сектора во второй жеребьёвки тянут на сектор\nпервыми, далее по списку от второго до предпоследнего!!\nОрганизаторами чемпионата являются:\nПрезидент клуба «С рыбалкой по жизни» Алейников Андрей Владимирович\nАдминистративный состав:\nСекретарь\nСудья\nСудья\nФинансирование.\nЧастичное финансирование затрат на проведения чемпионата осуществляется\nмагазином «С рыбалкой по жизни» (представитель Алейников Андрей\nВладимирович)\nНоминации.\n1-Место\n2-Место\n3-Место\nБиг фиш\nПрограмма чемпионата\nСбор участников на месте старта (регистрация) 23.05.2026 с 5:00 до 6:00\nЖеребьевка первого тура и второго тура с 6:00 до 6:10\nРасход по секторам, подготовка снастей (разрешен закорм) 6:10 до 7:30\nСтарт первого тура 7:30\nЗавершение первого тура 11:30\nВзвешивание улова с 11.30 до 12:00\nПерерыв с 12:00 до 12:30\nСтарт второго тура 13:30\nЗавершение второго тура (финальный свисток) 17:30\nВзвешивание улова с 17:30 до 18:00\nПодведения итогов чемпионата с 18:00 до 18:30\nНаграждение с 18:30 до 19:00\nАдминистрация клуба\nАлейников А. В.\nАлейникова Н. В.\nГрибцова Н. В.\nЕронин А. Э.\nЗаведеев О. М.\nЛарин Е. А.\nМокин А. С.\nМокина С\nХарламов Д. А.\nКуценко В.В.",
+    "ночной фидер": "П О Л О Ж Е Н И Е\nО проведении чемпионата клуба «С рыбалкой по жизни»\n«НОЧНОЙ ФИДЕР-2026» по ловле рыбы донной удочкой с берега\nЦели и задачи\n- Популяризация рыбной ловли как вида активного досуга\n- Пропаганда бережного отношения к природным ресурсам\n- Обмен опытом и повышение рыболовного мастерства участников.\n- Выявление сильнейших фидеристов.\nУчастники чемпионата.\nК участию в чемпионате допускаются все кто состоит в клубе «С рыбалкой по\nжизни», чей возраст составляет полных 10 лет (участник, не достигший 18 лет,\nпринимает участие с законным представителем), посторонние лица смогут\nпринять участия после согласования с администрацией клуба.\nУчастники несут личную ответственность за соблюдение техники безопасности\nво время проведения чемпионата.\nУчастники в неадекватном состоянии к участию в соревнованиях допускаться не\nбудут, без компенсации организационного взноса.\nУчастники самостоятельно добираются к месту проведения мероприятия, так же\nсамостоятельно оплачивают проживание и стоянку автомобиля\nОрганизационный взнос за участие – 2000 рублей.\nРегистрация участников с 21.06.2026 по 26.06.2026.\nВремя и место проведения чемпионата.\nЧемпионат проводится 27 июня Соколовское водохранилище, Ростовской области, г.Новошахтинск\nУсловия проведения чемпионата.\nЧемпионат проводится в один тур продолжительностью по 10 часов.\nЛовля рыбы осуществляется с берега одним удилищем, оснащенным кормушкой\nдля фидерной ловли, с одним крючком, длинна поводка не менее 25 см\nМероприятие проводится на доверии к участникам, с небольшой судейской\nколлегией поэтому за нарушения, указанные ниже, участник будет снят с\nучастия без предупреждения.\nПо команде \"Старт\" участники приступают к ловле рыбы.\nВ процессе ловли в секторе находится только участник, посторонним лицам\nкроме судейской коллегии находится запрещено, при нарушении возможна\nдисквалификация.\nВыход из сектора без уважительной причины запрещен, за исключением\nобстоятельств непреодолимой силы, или с разрешения судей.\nКаждый участник обязан сохранять выловленную рыбу до взвешивания в живом\nвиде.\nВ зачет идет вся пойманная или случайно забагренная рыба, за исключением той\nкоторая запрещена к вылову и занесенная в красную книгу (все виды осетровых,\nшемая, судак)\nОсобые требования по ловле уклейки: запрещено производить ловлю с берега в\nотвес, обязательно должна присутствовать фаза заброса и подтягивание\nоснастки.\nРыба взвешивается в присутствии участника.\nВзвешивание улова проводится по окончанию соревнований.\nПобедителем соревнования признается участник, поймавший самый большой общий вес\nВзвешивание улова осуществляется при помощи электронных весов.\nРезультаты чемпионата подсчитываются судейской коллегией (4 человека) и\nзаносятся в протокол.\nСнасти: оснащенные фидерные удилища (запасные) количество не\nограничивается.\nОснастка только фидерная, инлайн, симметричная, не симметричная петли,\nпетля Орлова,\nРазрешённая насадка: живая – червь, опарыш, мотыль и т.п.; зерновыеперловка, пшеница, кукуруза и т.п.\nПрикормка, ароматизаторы- допускается использование любых видов.\nСадок от 2 метров\nРазрешается иметь при себе неограниченное количество запасных снастей и\nпринадлежностей.\nЗапрещается использовать:\n- Все искусственные приманки, приманки произведенные из зерновых (бойлы),\nкальмар, креветка.\n- Звуковые сигнализаторы поклевок, колокольчики и бубенчики\n- Пробки, пружины, флет, макушатники\n\nОрганизаторами чемпионата являются:\nПрезидент клуба «С рыбалкой по жизни» Алейников Андрей Владимирович\nАдминистративный состав:\nСекретарь\nСудья\nСудья\nФинансирование.\nЧастичное финансирование затрат на проведения чемпионата осуществляется\nмагазином «С рыбалкой по жизни» (представитель Алейников Андрей\nВладимирович)\nНоминации.\n1-Место\n2-Место\n3-Место\nБиг фиш\nПрограмма чемпионата\n1) Прибытие участников Соколовское водохранилище Киселевское сельское поселение 06.09.2025 года с 18:00 до 18:30 часов\n2) Жеребьёвка по секторам с 18:30 до 18:40\n3)Расход по секторам и подготовка(до СТАРТА РАЗРЕШЁН ЗАКОРМ) 18:40 до 20:00 \n4)Старт соревнований  в 20:00 27.06.2026\n5)СТОП в 6-00 28.06.2026\n6) Взвешивание и подведение итогов соревнований с 6:00 до 7:00\n7) Награждение участников с 7:00 до 7:30\nАдминистрация клуба\nАлейников А. В.\nАлейникова Н. В.\nГрибцова Н. В.\nЕронин А. Э.\nЗаведеев О. М.\nЛарин Е. А.\nМокин А. С.\nМокина С.А.\nХарламов Д. А.\nКуценко В.В.\nБезбородов Д.А."
+  },
+  "seasons": {
+    "2024": {
+      "year": 2024,
+      "name": "Сезон 2024",
+      "active": false
+    },
+    "2025": {
+      "year": 2025,
+      "name": "Сезон 2025",
+      "active": true
+    },
+    "2026": {
+      "year": 2026,
+      "name": "ФИДЕР 2026г",
+      "active": false
+    },
+    "2027": {
+      "year": 2027,
+      "name": "Сезон 2027",
+      "active": false
+    }
+  },
+  "current_season": 2026
+}
